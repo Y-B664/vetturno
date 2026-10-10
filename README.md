@@ -448,6 +448,6 @@ Enviar una petición para crear un nuevo veterinario.
 
 ---
 # 🤖 Uso IA
-Para el proyecto se usó IA para recordar y comprender algunos conceptos y organizar partes del README.
+Para el proyecto se utilizó IA como herramienta para recordar, comprender y reforzar conceptos conocidos, entender conceptos nuevos, resolver dudas y organizar algunas partes del README.
 
 
