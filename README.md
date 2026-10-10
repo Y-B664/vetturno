@@ -436,52 +436,15 @@ Enviar una petición para crear un nuevo veterinario.
 
 ---
 # 🔄 Prueba con flujo sistema planteado en README.md
-
-### Paso 1. Registrar un usuario
-
-<img width="1062" height="942" alt="image" src="https://github.com/user-attachments/assets/388fae80-ede8-4f09-9f33-719cf6eb61b5" />
-<img width="579" height="572" alt="image" src="https://github.com/user-attachments/assets/6dc11b91-9fea-4d7c-aa83-5a1669ce07fc" />
-
-
-
-### Paso 2. Crear un propietario POST
-<img width="681" height="306" alt="image" src="https://github.com/user-attachments/assets/db907fe2-a8c2-49c4-aad9-c12d230f76bc" />
-<img width="1054" height="942" alt="image" src="https://github.com/user-attachments/assets/284bc4d2-7d73-407d-8844-413d50b76ec1" />
-<img width="367" height="93" alt="image" src="https://github.com/user-attachments/assets/080b9be2-64f8-4d7b-8d70-e96a0b694e9c" />
-<img width="1071" height="899" alt="image" src="https://github.com/user-attachments/assets/ced8971f-7c1a-45bf-8ccd-09e22e688a51" />
-
-
-
-
-### Paso 3. Crear una mascota POST
-<img width="1067" height="921" alt="image" src="https://github.com/user-attachments/assets/6b66a23f-92ed-4f11-9859-5cec86139feb" />
-<img width="363" height="19" alt="image" src="https://github.com/user-attachments/assets/c17cb25d-bdf7-481a-8d6c-974f961b654f" />
-<img width="1064" height="897" alt="image" src="https://github.com/user-attachments/assets/b3ad7a22-a9d5-4c1a-9399-9628f94441b2" />
-
-
-### Paso 4. Buscar mascotas por propietario
-<img width="1070" height="806" alt="image" src="https://github.com/user-attachments/assets/9d306170-eb41-46a0-afa2-9768e7cc4a63" />
-
-
-### Paso 5. Consultar los veterinarios disponibles
-<img width="1072" height="830" alt="image" src="https://github.com/user-attachments/assets/7f8deec0-f561-433a-b922-4b3ded2240bf" />
-
-
-
-### Paso 6. Crear una cita
-<img width="943" height="930" alt="image" src="https://github.com/user-attachments/assets/b604fbaf-081f-48d2-ac6c-962d9fcd6133" />
-<img width="457" height="72" alt="image" src="https://github.com/user-attachments/assets/85f3e8db-8154-4768-8911-20238f1c1758" />
-<img width="945" height="734" alt="image" src="https://github.com/user-attachments/assets/adb6e095-a646-4375-9734-0dcda7fc52a3" />
-
-
-
-
-
-### Paso 7. Buscar citas por veterinario
-<img width="950" height="676" alt="image" src="https://github.com/user-attachments/assets/9e56af14-8e35-4daf-b8b4-05e77bd47b0c" />
-
-
-
+| Paso | Evidencia de ejecución |
+|------------|-----------------------------------------------|
+| ### Paso 1. Registrar un usuario|<img width="1062" height="942" alt="image" src="https://github.com/user-attachments/assets/388fae80-ede8-4f09-9f33-719cf6eb61b5" /><img width="579" height="572" alt="image" src="https://github.com/user-attachments/assets/6dc11b91-9fea-4d7c-aa83-5a1669ce07fc" />|
+| ### Paso 2. Crear un propietario POST|<img width="681" height="306" alt="image" src="https://github.com/user-attachments/assets/db907fe2-a8c2-49c4-aad9-c12d230f76bc" /><img width="1054" height="942" alt="image" src="https://github.com/user-attachments/assets/284bc4d2-7d73-407d-8844-413d50b76ec1" /><img width="367" height="93" alt="image" src="https://github.com/user-attachments/assets/080b9be2-64f8-4d7b-8d70-e96a0b694e9c" /><img width="1071" height="899" alt="image" src="https://github.com/user-attachments/assets/ced8971f-7c1a-45bf-8ccd-09e22e688a51" />|
+| ### Paso 3. Crear una mascota POST|<img width="1067" height="921" alt="image" src="https://github.com/user-attachments/assets/6b66a23f-92ed-4f11-9859-5cec86139feb" /><img width="363" height="19" alt="image" src="https://github.com/user-attachments/assets/c17cb25d-bdf7-481a-8d6c-974f961b654f" /><img width="1064" height="897" alt="image" src="https://github.com/user-attachments/assets/b3ad7a22-a9d5-4c1a-9399-9628f94441b2" />|
+| ### Paso 4. Buscar mascotas por propietario|<img width="1070" height="806" alt="image" src="https://github.com/user-attachments/assets/9d306170-eb41-46a0-afa2-9768e7cc4a63" />|
+| ### Paso 5. Consultar los veterinarios disponibles|<img width="1072" height="830" alt="image" src="https://github.com/user-attachments/assets/7f8deec0-f561-433a-b922-4b3ded2240bf" />|
+| ### Paso 6. Crear una cita|<img width="943" height="930" alt="image" src="https://github.com/user-attachments/assets/b604fbaf-081f-48d2-ac6c-962d9fcd6133" /><img width="457" height="72" alt="image" src="https://github.com/user-attachments/assets/85f3e8db-8154-4768-8911-20238f1c1758" /><img width="945" height="734" alt="image" src="https://github.com/user-attachments/assets/adb6e095-a646-4375-9734-0dcda7fc52a3" />|
+| ### Paso 7. Buscar citas por veterinario|<img width="950" height="676" alt="image" src="https://github.com/user-attachments/assets/9e56af14-8e35-4daf-b8b4-05e77bd47b0c" />|
 
 ---
 # 🤖 Uso IA
